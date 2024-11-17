@@ -1,0 +1,14 @@
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.exe.config
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.exe
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.pdb
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.xml
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbprojAssemblyReference.cache
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Form1.resources
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Form2.resources
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Resources.resources
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbproj.GenerateResource.cache
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbproj.CoreCompileInputs.cache
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.exe
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.xml
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.pdb
+C:\Users\sannl\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Form3.resources
