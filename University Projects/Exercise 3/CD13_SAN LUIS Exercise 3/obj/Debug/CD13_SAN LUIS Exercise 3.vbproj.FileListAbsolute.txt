@@ -1,0 +1,12 @@
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.vbprojAssemblyReference.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN_LUIS_Exercise_3.Form1.resources
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN_LUIS_Exercise_3.Resources.resources
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.vbproj.GenerateResource.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.vbproj.CoreCompileInputs.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\bin\Debug\CD13_SAN LUIS Exercise 3.exe.config
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\bin\Debug\CD13_SAN LUIS Exercise 3.exe
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\bin\Debug\CD13_SAN LUIS Exercise 3.pdb
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\bin\Debug\CD13_SAN LUIS Exercise 3.xml
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.exe
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.xml
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 3\CD13_SAN LUIS Exercise 3\obj\Debug\CD13_SAN LUIS Exercise 3.pdb
