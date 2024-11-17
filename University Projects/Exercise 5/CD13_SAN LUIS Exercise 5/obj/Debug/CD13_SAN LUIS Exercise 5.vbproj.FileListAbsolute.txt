@@ -1,0 +1,12 @@
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\bin\Debug\CD13_SAN LUIS Exercise 5.exe.config
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\bin\Debug\CD13_SAN LUIS Exercise 5.exe
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\bin\Debug\CD13_SAN LUIS Exercise 5.pdb
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\bin\Debug\CD13_SAN LUIS Exercise 5.xml
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.vbprojAssemblyReference.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN_LUIS_Exercise_5.Form1.resources
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN_LUIS_Exercise_5.Resources.resources
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.vbproj.GenerateResource.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.vbproj.CoreCompileInputs.cache
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.exe
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.xml
+C:\Users\sannl\source\repos\CD13_SAN LUIS Exercise 5\CD13_SAN LUIS Exercise 5\obj\Debug\CD13_SAN LUIS Exercise 5.pdb
